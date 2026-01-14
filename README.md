@@ -3,9 +3,9 @@
 
 Hello! My name is Natalie! I am a student at the University of Washington. This page is a little bit about me!
 
-## My Family!
+## Me when I was Little!
 
-![My family](FamilyPhoto.pdf "This is a photo of my family")
+![My mom and I](DSC_1269.JPG "This is a photo of my mom and I")
 
 ## Academics
 
