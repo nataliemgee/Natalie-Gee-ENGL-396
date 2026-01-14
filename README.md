@@ -1,7 +1,7 @@
 # Natalie-Gee-ENGL-396
 ## About Me
 
-Hello! My name is *Natalie*! I am a student at the University of Washington. This page is a little bit about me!
+Hello! My name is _Natalie_! I am a student at the University of Washington. This page is a little bit about me!
 
 ## Me when I was Little!
 
