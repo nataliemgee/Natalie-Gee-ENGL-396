@@ -5,7 +5,7 @@ Hello! My name is Natalie! I am a student at the University of Washington. This 
 
 ## My Family!
 
-
+![My family] (IMG_9975.HEIC "This is a photo of my family")
 
 ## Academics
 
