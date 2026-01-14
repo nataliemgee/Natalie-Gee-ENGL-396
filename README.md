@@ -14,7 +14,7 @@ I want to become an administrator in healthcare, and then hopefully become a dir
 
 Here is a list of my favorite classes at UW:
 
-- [US Latino Politics](https://www.polisci.washington.edu/courses/2025/winter/pol%20s/359/a))
+- [US Latino Politics](https://www.polisci.washington.edu/courses/2025/winter/pol%20s/359/a)
 - [American Foreign Policy](https://www.polisci.washington.edu/courses/2025/summer/pol%20s/321/a)
 - [Mass Media Law](https://www.polisci.washington.edu/courses/2025/summer/pol%20s/461/a)
 
